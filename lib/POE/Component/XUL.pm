@@ -5,7 +5,7 @@ use XUL::Node::Server;
 use POE qw(Session XUL::SessionManager XUL::Session);
 use Carp qw(croak);
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub spawn {
 	my ($class, $args) = @_;
@@ -145,7 +145,7 @@ Rocco Caputo, for pushing me. :)
 
 =head1 SEE ALSO
 
-perl(1), L<Node::XUL>, L<Node::XUL::Application>.
+perl(1), L<XUL::Node>, L<XUL::Node::Application>.
 
 =cut
 

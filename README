@@ -71,5 +71,5 @@ THANKS
     Rocco Caputo, for pushing me. :)
 
 SEE ALSO
-    perl(1), Node::XUL, Node::XUL::Application.
+    perl(1), XUL::Node, XUL::Node::Application.
 
